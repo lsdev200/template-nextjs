@@ -24,6 +24,7 @@ export default function Document() {
           href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
           integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf"
           crossOrigin="anonymous"
+          
         />
         <link rel="stylesheet" href="assets/css/templatemo-chain-app-dev.css" />
         <link rel="stylesheet" href="assets/css/animated.css" />
