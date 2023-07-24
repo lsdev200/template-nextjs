@@ -12,6 +12,7 @@ const Footer = () => {
               <div className="section-heading">
                 <h4>
                   Join our mailing list to receive the news &amp; latest trends
+                  
                 </h4>
               </div>
             </div>
