@@ -12,7 +12,6 @@ const Footer = () => {
               <div className="section-heading">
                 <h4>
                   Join our mailing list to receive the news &amp; latest trends
-                  
                 </h4>
               </div>
             </div>
@@ -60,28 +59,15 @@ const Footer = () => {
                 <h4>About Us</h4>
                 <ul>
                   <li>
-                    <a href="#">Home</a>
+                    <Link href="/">Home</Link>
                   </li>
                   <li>
-                    <a href="#">Services</a>
+                    <Link href="/Service">Services</Link>
                   </li>
                   <li>
-                    <a href="#">About</a>
+                    <Link href="/About">About</Link>
                   </li>
-                  <li>
-                    <a href="#">Testimonials</a>
-                  </li>
-                  <li>
-                    <a href="#">Pricing</a>
-                  </li>
-                </ul>
-                <ul>
-                  <li>
-                    <a href="#">About</a>
-                  </li>
-                  <li>
-                    <a href="#">Testimonials</a>
-                  </li>
+
                   <li>
                     <a href="#">Pricing</a>
                   </li>
