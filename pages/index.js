@@ -11,6 +11,7 @@ import Service from "./Service";
 import Pricing from "./Pricing";
 
 
+
 const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
