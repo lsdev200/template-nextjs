@@ -107,6 +107,7 @@ const Footer = () => {
                 </ul>
               </div>
             </div>
+            
             <div className="col-lg-3">
               <div className="footer-widget">
                 <h4>About Our Company</h4>
