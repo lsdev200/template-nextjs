@@ -36,12 +36,12 @@ export default function Document() {
         <NextScript />
         <Script src="vendor/jquery/jquery.min.js"></Script>
         <Script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></Script>
-        
-        <Script src="assets/js/owl-carousel.js"></Script>
         <Script src="assets/js/animation.js"></Script>
+        <Script src="assets/js/owl-carousel.js"></Script>
         <Script src="assets/js/imagesloaded.js"></Script>
         <Script src="assets/js/popup.js"></Script>
         <Script src="assets/js/custom.js"></Script>
+        
       </body>
     </Html>
   );
