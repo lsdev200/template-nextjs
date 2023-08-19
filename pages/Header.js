@@ -67,6 +67,7 @@ const Header = () => {
                   </li>
                   <li>
                     <div className="gradient-button">
+                      
                       <a href="#" onClick={handleModalOpen}>
                         Sign Up
                       </a>
