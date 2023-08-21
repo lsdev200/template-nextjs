@@ -13,9 +13,9 @@
 }
 
 .fa {
-  display: inline-block;
   font-size: inherit;
   text-rendering: auto;
+  display: inline-block;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font: normal normal normal 14px/1 FontAwesome;
