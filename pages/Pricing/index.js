@@ -75,6 +75,7 @@ const Pricing = () => {
                   <li>Life-time Support</li>
                   <li>Premium Add-Ons</li>
                   <li>Fastest Network</li>
+                  
                   <li>More Options</li>
                 </ul>
                 <div className="border-button">
