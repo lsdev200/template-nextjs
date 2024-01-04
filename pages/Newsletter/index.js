@@ -1,8 +1,10 @@
 import React from "react";
 import Header from "../Header";
 import Link from "next/link";
+import moment from "moment";
 
 const Footer = () => {
+  const currentYear = moment().year();
   return (
     <div>
       <footer id="newsletter">
@@ -123,16 +125,10 @@ const Footer = () => {
             <div className="col-lg-12">
               <div className="copyright-text">
                 <p>
-                  Copyright © 2023 Chain App Dev Company. All Rights Reserved.
+                  Copyright © {currentYear} Varsil Suvagiya. All Rights Reserved.
                   <br />
-                  Design:{" "}
-                  <a
-                    href="https://templatemo.com/"
-                    target="_blank"
-                    title="css templates"
-                  >
-                    TemplateMo
-                  </a>
+                 
+                  
                 </p>
               </div>
             </div>
